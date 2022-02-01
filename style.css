@@ -52,7 +52,6 @@ p {
   line-height: 1.5;
   margin: 0px;
   font-size: var(--font-size-small);
-
   margin-top: 20px;
 }
 
@@ -72,6 +71,6 @@ main {
   border-bottom: solid 5px var(--secondary-dark);
   padding: 10px;
   padding-left: 30px;
-  width: max-content;
+  width: min-content;
   margin-left: -30px;
 }
