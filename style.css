@@ -64,6 +64,7 @@ main {
 .card {
   background-color: var(--gray-white);
   padding: 5px 20px 20px 20px;
+  border-bottom: solid 5px var(--gray-dark);
 }
 
 .indented-heading {
@@ -71,6 +72,6 @@ main {
   border-bottom: solid 5px var(--secondary-dark);
   padding: 10px;
   padding-left: 30px;
-  width: min-content;
+  width: fit-content;
   margin-left: -30px;
 }
